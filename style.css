@@ -1,0 +1,156 @@
+*{
+    background: #1E1E1E;
+    color:white;
+    box-sizing: border-box;
+}
+.Z{
+position: absolute;
+width: 182px;
+height: 29px;
+left: 58px;
+top: 96px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+}
+.A
+{
+position: absolute;
+width: 119px;
+height: 25px;
+left: 58px;
+top: 173px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+}
+#name{
+box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 58px;
+top: 213px;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+.B{
+position: absolute;
+width: 157px;
+height: 25px;
+left: 647px;
+top: 173px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+}
+#profession{
+box-sizing: border-box;
+
+position: absolute;
+width: 531px;
+height: 56px;
+left: 647px;
+top: 213px;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+.C{
+position: absolute;
+width: 133.35px;
+height: 25px;
+left: 1220px;
+top: 173px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+}
+#age{
+box-sizing: border-box;
+
+position: absolute;
+width: 451px;
+height: 56px;
+left: 1220px;
+top: 213px;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+}
+
+#sub{
+position: absolute;
+width: 226px;
+height: 58px;
+left: 58px;
+top: 308px;
+
+background: #FFFFFF;
+
+    color: #000000;
+    
+}
+.D{
+    position: absolute;
+    width: 205px;
+    height: 29px;
+    left: 58px;
+    top: 500px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+#E{
+    position: absolute;
+width: 262px;
+height: 29px;
+left: 58px;
+top: 570px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.5);
+}
+#q{
+ position: absolute;
+width: 881px;
+height: 29px;
+left: 58px;
+top: 414px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+}
